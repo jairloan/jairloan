@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Jair's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairloan)](https://github.com/jairloan/github-readme-stats)
+![Jair's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairloan&show_icons=true&theme=radical)
+
 
 
 <!--
